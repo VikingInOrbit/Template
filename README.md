@@ -1,7 +1,7 @@
 # Template
 
 ```cli
-git clone template.git NameOfProject/
+git clone https://github.com/VikingInOrbit/Template.git NameOfProject/
 cd NameOfProject
 git remote rm origin
 ```
