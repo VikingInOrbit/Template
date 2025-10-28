@@ -7,7 +7,7 @@ Thumbs.db
 __pycache__/
 .venv/
 build/
-deps/
+!deps/
 log/
 secrets/*
 !secrets/.gitkeep
